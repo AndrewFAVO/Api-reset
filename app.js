@@ -10,6 +10,7 @@ const app = express();
 
 
 ////Las App para las rutas.
+app.get('/favicon.ico', (req, res) => res.status(204).end());
 app.use(express.json());
 app.use(crudRouter);
 dbconect();
