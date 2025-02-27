@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "672163b1a44c66f7e1cef8a8"
+  },
+  "edad": 22,
+  "usuario": "gjg",
+  "correo": "haider@gmail.com",
+  "contraseña": "1234",
+  "createdAt": {
+    "$date": "2024-10-29T22:37:37.439Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-29T22:37:37.439Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "672163fba44c66f7e1cef8ad"
+  },
+  "nombre": "andres",
+  "edad": 22,
+  "usuario": "gjg",
+  "correo": "haider@gmail.com",
+  "contraseña": "1234",
+  "createdAt": {
+    "$date": "2024-10-29T22:38:51.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-29T22:38:51.413Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "672166de265f5e6a4103b85e"
+  },
+  "nombre": "andres",
+  "edad": 42,
+  "usuario": "gtttg",
+  "correo": "andres@gmail.com",
+  "contraseña": "123123213134",
+  "createdAt": {
+    "$date": "2024-10-29T22:51:10.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T23:46:59.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67b512ec69745b2ff743bc0f"
+  },
+  "nombre": "andres",
+  "edad": 42,
+  "usuario": "gtttg",
+  "correo": "andres@gmail.com",
+  "contraseña": "123123213134",
+  "createdAt": {
+    "$date": "2025-02-18T23:08:28.707Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-18T23:08:28.707Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c0c6c609bee0b3bd0dfae1"
+  },
+  "nombre": "jhoan alex",
+  "edad": 20,
+  "usuario": "alexesvrestao",
+  "correo": "jhoanalexinto@gmail.com",
+  "contraseña": "aleale2020",
+  "createdAt": {
+    "$date": "2025-02-27T20:10:46.560Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T20:12:06.902Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67c0c75809bee0b3bd0dfaee"
+  },
+  "nombre": "jhoan",
+  "edad": 23,
+  "usuario": "alexesvrestao",
+  "correo": "jhoanalexinto@gmail.com",
+  "contraseña": "aleale2020",
+  "createdAt": {
+    "$date": "2025-02-27T20:13:12.277Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-27T20:43:49.689Z"
+  }
+}]
